@@ -1,2 +1,2 @@
 # Percorrendo-Matrizes
-Formas de percorrer uma matriz
+Diferentes formas de percorrer uma matriz
